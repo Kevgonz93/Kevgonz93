@@ -55,5 +55,5 @@ Red social creada con fin de unir a los fanáticos del fútbol.
 
 ## 📫 Cómo contactarme
 
-- 📧 Correo: [kevin_gonzales_93@hotmail.com]
-- 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- 📧 Correo: kevin_gonzales_93@hotmail.com
+- 💼 LinkedIn: [Kevin Gonzales M](www.linkedin.com/in/kevgonzdeveloper)
