@@ -46,6 +46,28 @@ Red social creada con fin de unir a los fanáticos del fútbol.
 
 ---
 
+## 📝 42 Madrid
+
+Actualmente estoy continúo mi formación en *42Madrid*, una escuela de programación basada en proyectos y aprendizaje entre pares, sin profesores ni clases tradicionales. Aquí estoy desarrollando habilidades técnicas y blandas a través de retos desafiantes y proyectos prácticos.
+
+Algunos proyectos realizados:
+
+-	libft: Creación de una biblioteca personalizada en C.
+-	printf: Implementación de una versión propia de la función printf.
+-	get_next_line: Lectura optimizada de archivos línea por línea.
+-	pipex: Simulación de operaciones de redirección de comandos en la terminal.
+-	push_swap: Algoritmo para ordenar números en un entorno restringido.
+
+Habilidades adquiridas:
+
+-	Programación avanzada en C.
+-	Resolución de problemas bajo presión.
+-	Trabajo autónomo y colaborativo en un entorno 100% práctico.
+
+ 👉🏾 [Puedes ver mi progreso aquí](https://github.com/Kevgonz93/42Madrid) 👈🏾
+
+---
+
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kevgonz93&show_icons=true&theme=radical)
