@@ -78,4 +78,4 @@ Habilidades adquiridas:
 ## 📫 Cómo contactarme
 
 - 📧 Correo: kevin_gonzales_93@hotmail.com
-- 💼 LinkedIn: [Kevin Gonzales M](www.linkedin.com/in/kevgonzdeveloper)
+- 💼 LinkedIn: [Kevin Gonzales M](https://www.linkedin.com/in/kevgonzdeveloper)
